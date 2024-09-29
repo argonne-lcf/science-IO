@@ -1,0 +1,12 @@
+[submodule "hacc/genericio"]
+	path = hacc/genericio
+	url = https://git.cels.anl.gov/hacc/genericio.git
+[submodule "phasta/CGNSPetscFileWritingToy"]
+	path = phasta/CGNSPetscFileWritingToy
+	url = https://github.com/jrwrigh/CGNSPetscFileWritingToy.git
+[submodule "e3sm/E3SM-IO"]
+	path = e3sm/E3SM-IO
+	url = https://github.com/Parallel-NetCDF/E3SM-IO.git
+[submodule "vpic-amrex-h5bench/h5bench"]
+	path = vpic-amrex-h5bench/h5bench
+	url = https://github.com/hpc-io/h5bench.git
